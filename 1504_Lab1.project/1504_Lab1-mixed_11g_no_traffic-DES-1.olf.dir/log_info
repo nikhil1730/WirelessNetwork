@@ -1,0 +1,92 @@
+
+[Log Info:]
+version :	1
+row_count :	10
+max_log_row :	5000
+max_file_row :	1000
+hide_date :	TRUE
+include_severity :	TRUE
+file_count :	1
+
+[File List:]
+6184_03-22-2020_23.51.32	10	23:51:32 Mar 22 2020	23:51:41 Mar 22 2020
+
+[Column Dependency List:]
+dependency_count :	1
+6	7
+
+
+[Summary]
+
+
+log_handle_column_count :	3
+5	Category	2	Configuration
+6	Class	2	Bridge
+7	SubClass	2	Setup
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Configuration
+6	Class	2	Ethernet
+7	SubClass	2	Model Configuration
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Configuration
+6	Class	2	TMM
+7	SubClass	2	closure stage loading of propagation spec
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Configuration
+6	Class	2	Wireless LAN
+7	SubClass	2	MAC Configuration
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Low-Level
+6	Class	2	Simulation
+7	SubClass	2	Message
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Low-Level
+6	Class	2	TMM
+7	SubClass	2	path loss calculation
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Low-Level
+6	Class	2	Wireless LAN
+7	SubClass	2	Low Level Details
+incident_count :	1
+
+log_handle_column_count :	3
+5	Category	2	Protocol
+6	Class	2	Bridge
+7	SubClass	2	Protocol
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Protocol
+6	Class	2	Ethernet
+7	SubClass	2	Packet Drop
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Protocol
+6	Class	2	Wireless LAN
+7	SubClass	2	Data packet Drop
+incident_count :	8
+
+log_handle_column_count :	3
+5	Category	2	Results
+6	Class	2	Bridge
+7	SubClass	2	No_Results
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Results
+6	Class	2	Ethernet
+7	SubClass	2	Performance
+incident_count :	0
